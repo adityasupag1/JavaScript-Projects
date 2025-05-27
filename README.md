@@ -15,18 +15,21 @@ A task management application that allows users to:
 - Store tasks in local storage
 - Clean and responsive UI
 
+### 2. Age Calculator 🎂
+A simple utility that calculates your exact age in years, months, and days based on your date of birth.
+
+## 📦 Upcoming Projects
+- Weather App using OpenWeather API 🌦️
+- Calculator with dark/light theme support 🧮
+- Typing speed test app ⌨️
+- And more...
 
 ## 🚀 Getting Started
-
-### Prerequisites
-- Node.js (version X.X or higher)
-- npm/yarn
-- Modern web browser
 
 ### Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/your-repo.git
+   git clone [https://github.com/adityasupag1/JavaScript-Projects.git]
    ```
 2. Navigate to a specific project:
    ```bash
@@ -40,15 +43,16 @@ A task management application that allows users to:
 ## 🏗️ Project Structure
 
 ```
-├── project-1/              # First project folder
+├── Age calculator/              # First project folder
 │   ├── src/                # Source files
 │   ├── index.html          # Main HTML file
 │   ├── style.css           # Stylesheet
-│   └── script.js           # Main JavaScript file
-├── project-2/              # Second project folder
-│   ├── assets/             # Assets folder
+│   └── age.js           # Main JavaScript file
+├── Todo App/              # Second project folder
+│   ├── screenshots/             # Assets folder
 │   ├── index.html          
-│   └── main.js            
+│   ├── style.css
+│   ├── index.js            
 ├── README.md               # This file
 └── .gitignore              # Git ignore file
 ```
@@ -58,7 +62,7 @@ A task management application that allows users to:
 - JavaScript (ES6+)
 - HTML5
 - CSS3
-- [Any other libraries/frameworks]
+- Local Storage
 
 ## 🤝 Contributing
 
@@ -70,7 +74,6 @@ Contributions are welcome! Here's how you can help:
 4. Push to the branch (`git push origin feature/your-feature`)
 5. Open a Pull Request
 
-Please ensure your code follows the project's style and includes appropriate tests.
 
 ## 📜 License
 
@@ -78,8 +81,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📧 Contact
 
-Your Name - [your.email@example.com](mailto:your.email@example.com)  
-Project Link: [https://github.com/your-username/your-repo](https://github.com/your-username/your-repo)
+Your Name - [contactme@gmail.com](mailto:araj15397@gmail.com)  
+Project Link: [https://github.com/adityasupag1/JavaScript-Projects]
 
 ---
 
