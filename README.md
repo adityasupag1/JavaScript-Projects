@@ -15,7 +15,7 @@ A task management application that allows users to:
 - Store tasks in local storage
 - Clean and responsive UI
 
-### 2. Age Calculator 🎂
+### 2. Age Calculator ✅
 A simple utility that calculates your exact age in years, months, and days based on your date of birth.
 
 ## 📦 Upcoming Projects
