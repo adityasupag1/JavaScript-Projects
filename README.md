@@ -7,19 +7,14 @@ A growing collection of JavaScript projects showcasing different concepts, techn
 
 ## 📦 Current Projects
 
-1. **Project 1 Name**  
-   Brief description (1-2 sentences)  
-   *Key Features:*
-   - Feature 1
-   - Feature 2
-   - Feature 3
 
-2. **Project 2 Name**  
-   Brief description (1-2 sentences)  
-   *Key Features:*
-   - Feature 1
-   - Feature 2
-   - Feature 3
+### 1. Todo App ✅
+A task management application that allows users to:
+- Add, edit, and delete tasks
+- Mark tasks as complete
+- Store tasks in local storage
+- Clean and responsive UI
+
 
 ## 🚀 Getting Started
 
