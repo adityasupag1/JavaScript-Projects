@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>PopUp popups</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <h1>
+        Welcome to the PopUp popups Page
+    </h1>
+    <button class="open-popups" onclick="openModal()">Open popups</button>
+    <div class="pop-overlay" id="popup">
+        <div class="popup-container">
+            <!-- tab-buttons -->
+         <div class="close-btn" onclick="closeModal()">&times</div>
+         <div class="tab-buttons">
+            <div class="tab-btn active" data-tab="tab1">Tab1</div>
+            <div class="tab-btn" data-tab="tab2">Tab2</div>
+            <div class="tab-btn" data-tab="tab3">Tab3</div>
+            <div class="tab-btn" data-tab="tab4">Tab4</div>
+         </div>
+             
+             <!-- tab-content -->
+              <div class="tab-contents">
+                <div class="tab-content active" id="tab1">welcome to the tab content 111111 Lorem ipsum dolor sit amet consectetur adipisicing elit. Eum reiciendis odio obcaecati molestias enim qui voluptatum dolore in id quo quidem debitis unde culpa aut soluta incidunt tenetur, asperiores necessitatibus rem, minima, deleniti ipsam nisi recusandae. Autem aliquam soluta accusamus reprehenderit quae eos ad! Incidunt perspiciatis quae sed molestiae voluptatum.</div>
+                <div class="tab-content" id="tab2">welcome to the tab content 22222 Lorem ipsum dolor sit amet consectetur adipisicing elit. Eum reiciendis odio obcaecati molestias enim qui voluptatum dolore in id quo quidem debitis unde culpa aut soluta incidunt tenetur, asperiores necessitatibus rem, minima, deleniti ipsam nisi recusandae. Autem aliquam soluta accusamus reprehenderit quae eos ad! Incidunt perspiciatis quae sed molestiae voluptatum.</div>
+                <div class="tab-content" id="tab3">welcome to the tab content 33333 Lorem ipsum dolor sit amet consectetur adipisicing elit. Eum reiciendis odio obcaecati molestias enim qui voluptatum dolore in id quo quidem debitis unde culpa aut soluta incidunt tenetur, asperiores necessitatibus rem, minima, deleniti ipsam nisi recusandae. Autem aliquam soluta accusamus reprehenderit quae eos ad! Incidunt perspiciatis quae sed molestiae voluptatum.</div>
+                <div class="tab-content" id="tab4">welcome to the tab content 44444 Lorem ipsum dolor sit amet consectetur adipisicing elit. Eum reiciendis odio obcaecati molestias enim qui voluptatum dolore in id quo quidem debitis unde culpa aut soluta incidunt tenetur, asperiores necessitatibus rem, minima, deleniti ipsam nisi recusandae. Autem aliquam soluta accusamus reprehenderit quae eos ad! Incidunt perspiciatis quae sed molestiae voluptatum.</div>
+                
+              </div>
+        </div>
+    </div>
+    </div>
+
+
+    <script src="script.js"></script>
+</body>
+
+</html>
